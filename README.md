@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/olakristensen3" target="blank"><img src="https://img.shields.io/twitter/follow/olakristensen3?logo=twitter&style=for-the-badge" alt="olakristensen3" /></a> </p>
 
-- 🔭 I’m currently working on [my own portofolio website](olafjeldkristensen.no)
+- 🔭 I’m currently working on [my own portofolio website](www.olafjeldkristensen.no)
 
 - 🌱 I’m currently learning **Power Apps, Power Automate, Power BI**
 
-- 👨‍💻 All of my projects are available at [olafjeldkristensen.no/projects/](olafjeldkristensen.no/projects/)
+- 👨‍💻 All of my projects are available at [www.olafjeldkristensen.no/projects/](www.olafjeldkristensen.no/projects/)
 
 - 💬 Ask me about **Hardware & CSS**
 
