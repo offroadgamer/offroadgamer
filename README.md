@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/olakristensen3" target="blank"><img src="https://img.shields.io/twitter/follow/olakristensen3?logo=twitter&style=for-the-badge" alt="olakristensen3" /></a> </p>
 
-- 🔭 I’m currently working on [my own portofolio website](www.olafjeldkristensen.no)
+- 🔭 I’m currently working on [Red Bank](https://github.com/offroadgamer/Red-Bank)
 
 - 🌱 I’m currently learning **Vue & Java**
 
-- 👨‍💻 All of my projects are (not yet) available at [Red Bank](https://github.com/offroadgamer/Red-Bank)
+- 👨‍💻 All of my projects are (not yet) available at [www.olafjeldkristensen.no/projects](https://www.olafjeldkristensen.no/projects)
 
 - 💬 Ask me about **Hardware & CSS**
 
