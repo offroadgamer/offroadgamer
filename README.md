@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [my own portofolio website](www.olafjeldkristensen.no)
 
-- 🌱 I’m currently learning **Power Apps, Power Automate, Power BI**
+- 🌱 I’m currently learning **Vue & Java**
 
-- 👨‍💻 All of my projects are available at [www.olafjeldkristensen.no/projects/](www.olafjeldkristensen.no/projects/)
+- 👨‍💻 All of my projects are (not yet) available at [Red Bank](https://github.com/offroadgamer/Red-Bank)
 
 - 💬 Ask me about **Hardware & CSS**
 
